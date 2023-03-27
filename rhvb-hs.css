@@ -1,0 +1,11 @@
+/* #nav-primary-sales-branch,
+#nav-primary-marketing-branch,
+#nav-primary-conversations-branch {
+    display: none !important;
+} */
+
+#nav-secondary-calls,
+#nav-secondary-targetAccounts,
+#nav-secondary-activity {
+    display: none !important;
+}
