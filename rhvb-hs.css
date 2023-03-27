@@ -3,7 +3,8 @@
 #nav-primary-marketing-branch,
 #nav-primary-conversations-branch,
 #nav-primary-automation-branch,
-#nav-primary-reports-branch {
+#nav-primary-reports-branch,
+#nav-primary-service-branch {
     display: none !important;
 }
 
