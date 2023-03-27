@@ -1,9 +1,12 @@
-/* #nav-primary-sales-branch,
+/* Primary menu items */
+#nav-primary-sales-branch,
 #nav-primary-marketing-branch,
 #nav-primary-conversations-branch {
     display: none !important;
-} */
+}
 
+
+/* Sub menu items */
 #nav-secondary-calls,
 #nav-secondary-targetAccounts,
 #nav-secondary-activity {
